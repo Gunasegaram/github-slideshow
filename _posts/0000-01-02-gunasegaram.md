@@ -2,4 +2,6 @@
 layout:slide
 title:"Welcome to our second slide!"
 ---
-This is fun.
+This is fun :leopard:.
+:one:
+:+1:
